@@ -1,0 +1,7 @@
+name: Project7
+main: tc.project7.Main
+version: 1.0
+author: technic_cup
+
+commands:
+  opendrop:
